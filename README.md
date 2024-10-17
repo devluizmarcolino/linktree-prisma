@@ -10,7 +10,7 @@ Hoje eu tive o prazer de realizar um projeto para o meu pai e a empresa dele.
 
 ## :man_mechanic: Linguagens e Ferramentas
 
-![Skills](https://skillicons.dev/icons?i=html,ccss)
+![Skills](https://skillicons.dev/icons?i=html,css)
 
 
 ## :triangular_flag_on_post: Contribua com o projeto
